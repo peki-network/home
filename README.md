@@ -14,6 +14,6 @@
 
 ## Actualizaciones del portal
 
-***Consulta las actualizaciones del portal [aquí](https://github.com/peki-network/changelog)***
+***Consulta las actualizaciones del portal [aquí](https://github.com/peki-network/changelog/blob/main/README.md)***
 
 ### Hecho con ❤️ en Lepe
