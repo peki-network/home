@@ -5,12 +5,12 @@
 # Petted Kitten Network
 ***El lugar de información de libre acceso en GitHub. Información de prensa de código abierto. Cualquiera puede inscribir su información***
 
-### Para más información lea el [EULA](https://github.com/peki-network/eula) (GNU GPL v3)
+### Para más información lea el [EULA](https://github.com/peki-network/eula/blob/main/README.md) (GNU GPL v3)
 *El EULA se aplica solo al programa **ESTE PORTAL** y no hay software informático que se aplique al mismo*
 
 ## Canales de noticias
 
-- **[España](https://github.com/peki-network/noticias-espana)**
+- **[España](https://github.com/peki-network/noticias-espana/blob/main/README.md)**
 
 ## Actualizaciones del portal
 
