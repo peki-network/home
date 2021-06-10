@@ -8,6 +8,10 @@
 ### Para más información lea el [EULA](https://github.com/peki-network/eula) (GNU GPL v3)
 *El EULA se aplica solo al programa **ESTE PORTAL** y no hay software informático que se aplique al mismo*
 
+## Canales de noticias
+
+- **[España](https://github.com/peki-network/noticias-espana)**
+
 ## Actualizaciones del portal
 
 ***Consulta las actualizaciones del portal [aquí](https://github.com/peki-network/changelog)***
